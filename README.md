@@ -1,8 +1,10 @@
-```markdown
 # 🌌 Parallax Scrolling Website
 
 ## 📖 Overview
 This project is a **Parallax Scrolling Website** built using **HTML** and **CSS**. It creates an immersive scrolling experience with beautiful backgrounds and smooth content transitions.
+
+## Project Link
+https://parallexmagic.netlify.app
 
 ## ✨ Features
 - Smooth **parallax scrolling effect**
@@ -20,31 +22,7 @@ This project is a **Parallax Scrolling Website** built using **HTML** and **CSS*
 6. **Golden Sunset** – A warm sunset painting the skies with orange and purple hues.
 
 ## 🚀 Getting Started
+
 ### Clone the repository
 ```bash
 git clone https://github.com/your-username/parallax-website.git
-```
-
-### Open in Browser
-Simply open the `index.html` file in your browser.
-
-## 📂 Project Structure
-```
-├── index.html     # Main HTML file
-├── /images        # Folder for background images
-└── README.md      # Project documentation
-```
-
-## 📸 Preview
-https://parallexmagic.netlify.app
-
-## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit pull requests.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-```
